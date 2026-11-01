@@ -191,3 +191,13 @@ sequenceDiagram
 ### Tips
 *   `Router Model` 应选择响应速度快的模型，以减少路由判断带来的延迟。
 *   **Debugging**: 如果发现路由不准确，开启 `/router debug on`，观察 `reasoning` 字段，根据模型的思考过程微调配置中的 `desc` (意图定义)。
+
+---
+
+## License and reuse
+
+This repository currently does not include a project-level LICENSE file. Until the copyright holders publish an explicit license, **no general permission is granted to copy, modify, redistribute, or incorporate this repository's code into another project**. Public visibility on GitHub is not itself a reuse license.
+
+The plugin is designed to integrate with AstrBot and uses its public extension interfaces. That compatibility does not imply that this repository is an official AstrBot project or that AstrBot's license automatically applies to this plugin. Third-party dependencies and assets, if added, retain their own licenses and notices.
+
+If you are a contributor and want to propose an open-source license, first confirm that all copyright holders agree and that all incorporated code has compatible provenance. Do not assume MIT or another permissive license without that review.
