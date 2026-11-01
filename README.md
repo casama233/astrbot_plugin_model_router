@@ -201,3 +201,7 @@ This repository currently does not include a project-level LICENSE file. Until t
 The plugin is designed to integrate with AstrBot and uses its public extension interfaces. That compatibility does not imply that this repository is an official AstrBot project or that AstrBot's license automatically applies to this plugin. Third-party dependencies and assets, if added, retain their own licenses and notices.
 
 If you are a contributor and want to propose an open-source license, first confirm that all copyright holders agree and that all incorporated code has compatible provenance. Do not assume MIT or another permissive license without that review.
+
+### Upstream provenance
+
+This repository is a fork of [yukikazechan/astrbot_plugin_model_router](https://github.com/yukikazechan/astrbot_plugin_model_router). The upstream repository does not provide a LICENSE file. The fork therefore does not claim that upstream-derived code is MIT, Apache-2.0, or otherwise freely redistributable. The notice above applies until all relevant copyright holders establish a compatible license or permission.
