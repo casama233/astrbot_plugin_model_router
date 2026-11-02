@@ -1,5 +1,7 @@
 # AstrBot Plugin Model Router
 
+**简体中文** · [繁體中文](README.zh-TW.md) · [English](README.en.md)
+
 **基于意图识别的智能多模型路由插件 / Intelligent Multi-Model Router based on Intent Recognition**
 
 `astrbot_plugin_model_router` 是一个为 AstrBot 设计的高级插件，它能够拦截用户消息，利用一个快速的 "路由模型" (Router Model) 对用户意图进行分析和打分，然后根据任务的**难度 (Difficulty)** 和 **类别 (Category)** 自动将请求分发给最合适的模型。
